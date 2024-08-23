@@ -14,5 +14,5 @@
 To get started with Glint, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/glint.git
+git clone https://github.com/kzkalindu/glint.git
 cd glint
