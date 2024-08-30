@@ -18,7 +18,7 @@
 ### 1. **Backend**
    - **Language:** Java
    - **Framework:** Spring Boot
-   - **Database:** MySQL or PostgreSQL
+   - **Database:** MySQL
    - **API Layer:** RESTful APIs for communication between the backend and frontend, and for integration with external systems (e.g., e-commerce platforms).
 
 ### 2. **Frontend**
